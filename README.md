@@ -5,7 +5,7 @@
 
 # how to start app
 
-`
+```
 npm install
 npm run start
-`
+```
